@@ -27,4 +27,5 @@ This Python application provides a simple graphical user interface (GUI) to moni
 - Tkinter library (usually included in standard Python installations)
 
 ## Example Output
+![GUI Example](gui.png)
 ![Example](example.png)
