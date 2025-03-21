@@ -1,4 +1,4 @@
-# Directory Monitor & JPG Renamer  
+# Default filename 'download.jpg' Renamer  
 
 ## Description
 This Python application provides a simple graphical user interface (GUI) to monitor a selected directory for the addition of a file named `download.jpg`. When detected, it automatically renames this file using a timestamp and a random 16-bit hexadecimal number, ensuring uniqueness.
